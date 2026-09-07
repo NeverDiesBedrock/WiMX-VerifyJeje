@@ -1,3 +1,2 @@
 // Wimx special auth
-8A37280B85A44000
 3DBC80598F44F0AF
